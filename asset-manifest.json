@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imbd/static/css/main.e45fb457.css",
+    "main.js": "/imbd/static/js/main.e87581a3.js",
+    "index.html": "/imbd/index.html",
+    "main.e45fb457.css.map": "/imbd/static/css/main.e45fb457.css.map",
+    "main.e87581a3.js.map": "/imbd/static/js/main.e87581a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45fb457.css",
+    "static/js/main.e87581a3.js"
+  ]
+}
